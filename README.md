@@ -10,50 +10,19 @@ Private Repository Disclaimer: If you have access to this repository please keep
 
 ## Circuit Schematic
 
-(Add your Figure 1 screenshot here)
+<img width="1431" height="727" alt="image" src="https://github.com/user-attachments/assets/397940f0-aba2-48dd-9f47-d511b9d14041" />
+
 
 ---
 
 ## Frequency Response
 
-(Add your Figure 2 screenshot here)
+<img width="1449" height="687" alt="image" src="https://github.com/user-attachments/assets/2ca28ef4-a598-407d-ae6d-27abe740169e" />
 
 ---
 
 ## AC Waveform Analysis
 
-(Add your Figure 3 screenshot here)
+<img width="1447" height="694" alt="image" src="https://github.com/user-attachments/assets/8383d0e1-a9c8-4109-80bc-cca757927602" />
 
 ---
-
-## Key Learning Outcomes
-
-* Multi-stage amplifier design
-* MOSFET biasing and sizing
-* Small-signal gain analysis
-* Frequency response optimization
-* Output buffering techniques
-* Practical simulation verification
-
----
-
-## Project Report
-
-Full technical report available in this repository:
-
-`ELE404_Final_Project_Report.pdf`
-
----
-
-## Author
-
-Michael Varga
-
-Electrical Engineering
-Toronto Metropolitan University
-
----
-
-## License
-
-This project is for academic and educational purposes.
