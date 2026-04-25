@@ -3,6 +3,8 @@ Private Repository Disclaimer: If you have access to this repository please keep
 
 # Multi-Stage MOSFET Voltage Amplifier Design
 
+<img width="1405" height="772" alt="image" src="https://github.com/user-attachments/assets/43957368-b394-4cdd-a5be-de53e03615f7" />
+
 ## Overview
 
 This project presents the design, theoretical analysis, and simulation of a four-stage MOSFET voltage amplifier developed for ELE404 – Electronic Circuits I at Toronto Metropolitan University.
